@@ -19,3 +19,9 @@
 ## 📫 Connect with me
 - GitHub: https://github.com/sundram098
 
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+
